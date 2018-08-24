@@ -40,7 +40,7 @@
   },
 
   "input": {
-    "smallest_side_train": false,
+    "scale_and_random_crop_train": false,
     "smallest_side_scale_train": 256,
     "random_crop_train": 224,
     "randomresized_train": true,

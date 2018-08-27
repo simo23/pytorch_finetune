@@ -51,7 +51,7 @@
     "color_jitter_train": true,
     "lighting_train": true,  
 
-    "smallest_side_val" : false,
+    "scale_and_center_crop_val" : false,
     "smallest_size_scale_val": 256,
     "center_crop_val": 224,
     "squared_image_val" : true,
